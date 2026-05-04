@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace Assets.Scripts.Celestial
 {
-    [CreateAssetMenu(fileName = "Planet", menuName = "Scriptable Object/Celestial/PlanetSO")]
+    [CreateAssetMenu(fileName = "Planet", menuName = "Scriptable Object/Celestial/Planet")]
     public class PlanetSO : ScriptableObject
     {
         [Header("Main Info")]

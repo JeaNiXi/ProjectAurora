@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 661efd7b0f66e3f4996c2aaa25ceb3cb, type: 3}
   m_Name: Earth
   m_EditorClassIdentifier: Assembly-CSharp::Assets.Scripts.Celestial.PlanetSO
-  <ID>k__BackingField: 
-  <Name>k__BackingField: 
-  TradeItems: []
+  <ID>k__BackingField: p_Earth
+  <Name>k__BackingField: Earth
+  TradeItems:
+  - Item:
+      ItemData: {fileID: 11400000, guid: a72d8738f2d092f4bb79dc925e05c31c, type: 2}
+    Amount: 500
